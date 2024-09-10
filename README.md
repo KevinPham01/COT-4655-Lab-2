@@ -14,5 +14,6 @@
 * View posts in the user’s feed.
 
 
-![ezgif com-video-to-gif-converter (7)](https://github.com/user-attachments/assets/6b57df7f-bf00-4a82-ac3c-7aaf75635dd1)
+![COP5930-005Lab2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/65d3a5aa-1593-4182-9d1d-fc474c30ed4d)
+
 
